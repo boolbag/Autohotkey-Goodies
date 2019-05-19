@@ -1,0 +1,4 @@
+Replace
+(?^:
+at the start of each pattern with
+(?:

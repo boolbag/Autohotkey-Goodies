@@ -1,0 +1,8 @@
+Version #1: Regex::Assemble
+
+(?^:(?i:(?:c(?:ontinue|ritical|atch|lass)|e(?:x(?:it(?:app)?|tends)|lse)|g(?:o(?:sub|to)|lobal)|b(?:reak|yref)|f(?:inally|or)|lo(?:cal|op)|t(?:hrow|ry)|i[fns]|return|static|until|while|and|not|or)))
+
+Version #2: Regex::Assemble::Compressed
+
+(?^:(?:c(?:ontinue|ritical|atch|lass)|e(?:x(?:it(?:app)?|tends)|lse)|g(?:o(?:sub|to)|lobal)|b(?:reak|yref)|f(?:inally|or)|lo(?:cal|op)|t(?:hrow|ry)|i[fns]|return|static|until|while|and|not|or))
+

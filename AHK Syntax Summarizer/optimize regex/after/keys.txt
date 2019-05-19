@@ -1,0 +1,8 @@
+Version #1: Regex::Assemble
+
+(?^:(?i:(?:num(?:pad(?:\d|d(?:o(?:wn|t)|el|iv)|(?:righ|lef|mul)t|en(?:ter|d)|pg(?:dn|up)|clear|home|add|ins|sub|up)|lock)|l(?:a(?:unch_(?:m(?:edia|ail)|app[12])|lt)|win(?:down|up)?|c(?:ontro|tr)l|(?:shi|e)ft|button)|b(?:rowser_(?:f(?:avorites|orward)|s(?:earch|top)|refresh|back|home)|ackspace|lind|s)|joy(?:[456789ruxyz]|(?:button|axe)s|(?:po)?v|3[012]?|1\d?|2\d?|info|name)|r(?:win(?:down|up)?|c(?:ontro|tr)l|(?:shif|igh)t|a(?:lt|w)|button)|m(?:edia_(?:p(?:lay_pause|rev)|next|stop)|button)|c(?:trl(?:break|down|up)?|(?:apslo|li)ck|ontrol)|s(?:hift(?:down|up)?|crolllock|pace)|p(?:g(?:dn|up)|rintscreen|ause)|wheel(?:(?:righ|lef)t|down|up)|f(?:[3456789]|2[01234]?|1\d?)|e(?:n(?:ter|d)|sc(?:ape)?)|a(?:lt(?:down|up)|ppskey)|volume_(?:down|mute|up)|d(?:el(?:ete)?|own)|ins(?:ert)?|xbutton[12]|﻿alt|home|tab|up)))
+
+Version #2: Regex::Assemble::Compressed
+
+(?^:(?:num(?:pad(?:\d|d(?:o(?:wn|t)|el|iv)|(?:righ|lef|mul)t|en(?:ter|d)|pg(?:dn|up)|clear|home|add|ins|sub|up)|lock)|l(?:a(?:unch_(?:m(?:edia|ail)|app[12])|lt)|win(?:down|up)?|c(?:ontro|tr)l|(?:shi|e)ft|button)|b(?:rowser_(?:f(?:avorites|orward)|s(?:earch|top)|refresh|back|home)|ackspace|lind|s)|joy(?:[4-9rux-z]|(?:button|axe)s|(?:po)?v|3[0-2]?|1\d?|2\d?|info|name)|r(?:win(?:down|up)?|c(?:ontro|tr)l|(?:shif|igh)t|a(?:lt|w)|button)|m(?:edia_(?:p(?:lay_pause|rev)|next|stop)|button)|c(?:trl(?:break|down|up)?|(?:apslo|li)ck|ontrol)|s(?:hift(?:down|up)?|crolllock|pace)|p(?:g(?:dn|up)|rintscreen|ause)|wheel(?:(?:righ|lef)t|down|up)|f(?:[3-9]|2[0-4]?|1\d?)|e(?:n(?:ter|d)|sc(?:ape)?)|a(?:lt(?:down|up)|ppskey)|volume_(?:down|mute|up)|d(?:el(?:ete)?|own)|ins(?:ert)?|xbutton[12]|﻿alt|home|tab|up))
+

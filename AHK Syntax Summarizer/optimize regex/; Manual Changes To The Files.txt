@@ -1,0 +1,2 @@
+ - took `Sleep` out of Flow Control. I want it marked up as a Command (and it's duplicated there).
+- same with `Pause`, `Settimer`, `Suspend` 

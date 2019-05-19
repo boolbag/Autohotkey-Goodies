@@ -1,0 +1,8 @@
+Version #1: Regex::Assemble
+
+(?^:(?i:(?:i(?:n(?:stall(?:keybd|mouse)hook|clude(?:again)?|putlevel)|f(?:win(?:not(?:active|exist)|active|exist)|timeout)?)|m(?:ax(?:threads(?:perhotkey|buffer)?|hotkeysperinterval|mem)|enumaskkey)|hot(?:key(?:modifiertimeout|interval)|string)|c(?:lipboardtimeout|ommentflag)|e(?:rrorstdout|scapechar)|w(?:inactivateforce|arn)|allowsamelinecomments|no(?:trayicon|env)|singleinstance|keyhistory|persistent|usehook|ltrim)))
+
+Version #2: Regex::Assemble::Compressed
+
+(?^:(?:i(?:n(?:stall(?:keybd|mouse)hook|clude(?:again)?|putlevel)|f(?:win(?:not(?:active|exist)|active|exist)|timeout)?)|m(?:ax(?:threads(?:perhotkey|buffer)?|hotkeysperinterval|mem)|enumaskkey)|hot(?:key(?:modifiertimeout|interval)|string)|c(?:lipboardtimeout|ommentflag)|e(?:rrorstdout|scapechar)|w(?:inactivateforce|arn)|allowsamelinecomments|no(?:trayicon|env)|singleinstance|keyhistory|persistent|usehook|ltrim))
+

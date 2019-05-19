@@ -1,0 +1,8 @@
+1. Install Active State Perl
+
+2. CMD prompt: get the required Perl packages
+ppm install regexp-assemble
+ppm install Regexp::Assemble::Compressed
+
+3. CMD prompt: run the transformation 
+Process-All.bat

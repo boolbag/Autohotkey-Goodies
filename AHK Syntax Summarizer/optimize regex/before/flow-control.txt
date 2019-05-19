@@ -1,0 +1,1 @@
+and|break|byref|catch|class|continue|critical|else|exit|exitapp|extends|finally|for|global|gosub|goto|if|in|is|local|loop|not|or|return|static|throw|try|until|while
